@@ -35,6 +35,7 @@
 
 ### Мои учебные проекты
 [Командный проект](https://github.com/ArtemS27/Java_team_diplom) 
+
 [Курсовой проект](https://github.com/NikitkaGordeev/CourseProject) 
 #### Примеры тестовой документации
 
