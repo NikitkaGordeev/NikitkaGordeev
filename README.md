@@ -37,12 +37,12 @@
 #### Примеры тестовой документации
 
 * [План автоматизации тестирования поиска и записи на курс "Тестировщик ПО" на сайте netology.ru](https://github.com/NikitkaGordeev/Summary)
-* [План автоматизации тестирования сервиса покупки тура](https://github.com/NikitkaGordeev/CourseProject/blob/main/docs/Plan.md) 
+* [План автоматизации тестирования сервиса покупки тура](https://github.com/NikitkaGordeev/CourseProject/blob/main/docs/Plan.md)
+* [Чеклист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя на сайте](https://docs.google.com/spreadsheets/d/10v1ffnBLhJAy0gmSXL5T8zq2eoT-dyYnwPBKGfZoHIs/edit?usp=sharing) [`henderson`](https://henderson.ru/) 
 * [Тест кейсы к сервису покупки тура](https://github.com/NikitkaGordeev/CourseProject/blob/main/docs/Plan.md)
 * [Тест кейсы к сервису покупки тура вариант в таблице](https://docs.google.com/spreadsheets/d/1AwslaBLXZIE-qOLH0Giw1AcRqcNxMu9iA03hVIA0CsE/edit#gid=1895355200)
 * [Текст кейсы к заявке на оформление дебетовой карты](https://docs.google.com/spreadsheets/d/1J69mcEHrcDH22KOZvsVQUD7bK0j--qMfm0zwwKuJIic/edit?usp=sharing)  
-* [Баг рерорты к сервису покупки тура](https://github.com/NikitkaGordeev/CourseProject/issues)
-* [Чеклист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя на сайте](https://docs.google.com/spreadsheets/d/10v1ffnBLhJAy0gmSXL5T8zq2eoT-dyYnwPBKGfZoHIs/edit?usp=sharing) [`henderson`](https://henderson.ru/) 
+* [Баг репорты к сервису покупки тура](https://github.com/NikitkaGordeev/CourseProject/issues)
 * [Отчет по тестированию сервиса покупки тура](https://github.com/NikitkaGordeev/CourseProject/blob/main/docs/Report.md)  
 
 
